@@ -1,7 +1,14 @@
 {
     "folders": [
         {
+            "name": "html:css",
             "path": ".."
+        },
+        {
+            "path": "../../Desktop/Ole-Ivani.github.io"
         }
-    ]
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Ole-Ivani.github.io"
+    }
 }
